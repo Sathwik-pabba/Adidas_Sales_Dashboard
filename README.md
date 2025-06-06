@@ -60,7 +60,7 @@ To analyze Adidas sales data and build an interactive Power BI dashboard highlig
 ## 🙋‍♂️ About Me
 
 I'm a data analyst with expertise in **Power BI**, **SQL**, and **Python**, passionate about turning raw data into clear business insights.  
-Check out more on my [GitHub Profile](https://github.com/SathwikPabba).
+Check out more on my [GitHub Profile](https://github.com/Sathwik40).
 
 ---
 

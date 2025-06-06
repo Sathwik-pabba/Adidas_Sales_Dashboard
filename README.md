@@ -45,14 +45,14 @@ To analyze Adidas sales data and build an interactive Power BI dashboard highlig
 
 ## 📸 Dashboard Preview
 
-![Dashboard Screenshot](https://github.com/Sathwik40/Adidas_Sales_Dashboard/blob/main/Adidas%20Sales%20Dashboard.png)
+![Dashboard Screenshot](https://github.com/Sathwik40/Adidas_Sales_Dashboard/blob/main/Adidas_Sales_Dashboard.png)
 
 ---
 
 ## 📁 Files Included
 
 - `Adidas Sales Dashboard.pbix` – Power BI dashboard
-- `Adidas Sales Dashboard.png` – Dashboard visual
+- `Adidas_Sales_Dashboard.png` – Dashboard visual
 - `Adidas_Sales_PracticeSet-5_dataset.xlsx` – dataset
 
 ---

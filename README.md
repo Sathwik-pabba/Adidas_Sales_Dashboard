@@ -1,8 +1,14 @@
 # 👟 Adidas Sales Dashboard
 
-## 🧠 Project Objective
+## 📊 Project Overview
 
-To analyze Adidas sales data and build an interactive Power BI dashboard highlighting key KPIs, sales trends, and performance metrics across products, retailers, and regions. This helps understand product performance and drive sales strategies in the e-commerce domain.
+This project analyzes Adidas sales data to extract valuable business insights using Power BI. The dashboard provides a comprehensive view of sales performance across regions, retailers, product categories, and sales methods.
+
+---
+
+## 🧩 Problem Statement
+
+To analyze Adidas sales data and identify patterns in customer preferences, sales performance across regions, and product category contributions. The goal is to uncover actionable insights that can drive better decision-making and improve overall sales strategy.
 
 ---
 

@@ -32,14 +32,50 @@ To analyze Adidas sales data and build an interactive Power BI dashboard highlig
 
 ---
 
-## 📊 Key Insights
+## 💡 Key Insights
 
-- 💰 **Total Sales**: ₹X,XX,XXX
-- 📈 **Highest-Selling Product**: UltraBoost Shoes
-- 🏆 **Top Retailer**: Adidas Flagship Store
-- 🌍 **Top Region**: North America
-- 💡 **Sales Trend**: Peaks during holiday months (Nov–Dec)
-- 🔄 **Profit Analysis**: High-profit categories include Footwear and Accessories
+- **Total Sales**: 120M  
+- **Total Profit**: 47M  
+- **Total Units Sold**: 2M  
+- **Avg. Price Per Unit**: $45
+
+### 🏙️ Top 5 Cities by Profit
+- New York (2.1M), Charleston (2M), San Francisco, Miami, Portland
+
+### 🏢 Top Retailers by Profit
+- West Gear (12M), Foot Locker (11M), Sports Direct (11M)
+
+### 🌍 Top Performing States
+- New York, California, Florida
+
+### 📦 Product Category Performance
+- Highest Sales: Street Footwear  
+- Gender-wise: Men outperform Women in all categories
+
+---
+
+## ✅ Recommendations
+
+1. **Prioritize High-Performing Retailers**  
+   Strengthen partnerships with *West Gear*, *Foot Locker*, and *Sports Direct* for higher volumes.
+
+2. **Maximize Sales in Top States**  
+   Boost marketing and inventory in *New York*, *California*, and *Florida*.
+
+3. **Focus on Street Footwear**  
+   Expand product lines, launch limited editions, and run targeted campaigns.
+
+4. **Strengthen Online Sales Channel**  
+   Improve UX, run promotions, and personalize offerings to boost online revenue.
+
+5. **Balance Seasonal Sales**  
+   Sales dip in Q1 and Q4—launch New Year and holiday campaigns to offset the drop.
+
+6. **Target Women Customers**  
+   Launch female-focused collections and marketing to increase women’s category sales.
+
+7. **Use Price Bundling**  
+   Offer combo deals or bulk discounts to increase units per transaction.
 
 ---
 

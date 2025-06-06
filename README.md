@@ -45,7 +45,7 @@ To analyze Adidas sales data and build an interactive Power BI dashboard highlig
 
 ## 📸 Dashboard Preview
 
-![Dashboard Screenshot](dashboard_screenshot.png)
+![Dashboard Screenshot](Adidas Sales Dashboard.png)
 
 ---
 

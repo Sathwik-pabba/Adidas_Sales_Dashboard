@@ -32,6 +32,13 @@ To analyze Adidas sales data and build an interactive Power BI dashboard highlig
 
 ---
 
+
+## 📸 Dashboard Preview
+
+![Dashboard Screenshot](https://github.com/Sathwik40/Adidas_Sales_Dashboard/blob/main/Adidas_Sales_Dashboard.png)
+
+---
+
 ## 💡 Key Insights
 
 - **Total Sales**: 120M  
@@ -77,11 +84,6 @@ To analyze Adidas sales data and build an interactive Power BI dashboard highlig
 7. **Use Price Bundling**  
    Offer combo deals or bulk discounts to increase units per transaction.
 
----
-
-## 📸 Dashboard Preview
-
-![Dashboard Screenshot](https://github.com/Sathwik40/Adidas_Sales_Dashboard/blob/main/Adidas_Sales_Dashboard.png)
 
 ---
 

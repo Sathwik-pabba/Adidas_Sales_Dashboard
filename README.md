@@ -104,7 +104,7 @@ To analyze Adidas sales data and identify patterns in customer preferences, sale
 ## 🙋‍♂️ About Me
 
 I'm a data analyst with expertise in **Power BI**, **Tableau**, **SQL**, and **Python**, **Pandas**, **NumPy**, and **data visualization**, **Matplotlib**, **Seaborn**, **MongoDB**, **Excel**. Passionate about turning raw data into clear business insights.  
-Check out more on my [GitHub Profile](https://github.com/Sathwik-pabba).
+Check out more on my [GitHub Profile](https://github.com/pabbasathwik).
 
 ---
 

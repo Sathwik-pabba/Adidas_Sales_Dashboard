@@ -103,12 +103,17 @@ To analyze Adidas sales data and identify patterns in customer preferences, sale
 
 ## 🙋‍♂️ About Me
 
-I'm a data analyst with expertise in **Power BI**, **Tableau**, **SQL**, and **Python**, **Pandas**, **NumPy**, and **data visualization**, **Matplotlib**, **Seaborn**, **MongoDB**, **Excel**. Passionate about turning raw data into clear business insights.  
-Check out more on my [GitHub Profile](https://github.com/pabbasathwik).
+I'm **Sathwik Pabba**, a Data Analyst with strong skills in **Tableau**, **Power BI**, **SQL**, **Python**, **Pandas**, **NumPy**, **MongoDB**, and **Excel**. I enjoy working with real-world datasets to build dashboards and derive actionable insights.
+
+🔗 [GitHub Profile](https://github.com/pabbasathwik)
 
 ---
 
-## 🔗 Connect with Me
+## 📣 Connect with Me
 
-- 💼 [LinkedIn](https://linkedin.com/in/sathwikpabba)
-- 📫 Email: sathwik.pabba18@email.com
+- 💼 [LinkedIn](https://linkedin.com/in/sathwikpabba)  
+- 📧 Email: [sathwikpabba18@gmail.com](mailto:sathwikpabba18@gmail.com)
+
+If you found this project helpful, ⭐ star the repo and explore my other dashboards and analysis projects on GitHub!
+
+> “Without data, you're just another person with an opinion.” – W. Edwards Deming 📊

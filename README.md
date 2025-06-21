@@ -16,7 +16,7 @@ To analyze Adidas sales data and identify patterns in customer preferences, sale
 
 - **Retailer**: Store or reseller name
 - **Region**: Sales region
-- **Product**: Adidas product name
+- **Product**: product name
 - **Product Category**: E.g., Footwear, Apparel, Accessories
 - **Order Date**: Date of sale
 - **Units Sold**: Quantity sold
